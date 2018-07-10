@@ -5,7 +5,7 @@
   <artifactId>myTestApp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>myTestApp Maven Webapp</name>
+  <name>myTestApp Webapp and Mobile App</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
